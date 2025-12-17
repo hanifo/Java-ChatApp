@@ -52,9 +52,9 @@ Type exit to end the chat.
 
 ✍️ Author
 
-👤 Name: Hanif Esmail
-📘 Course: Advanced Programming
-🎓 Institution: Adama Science and Technology University
+👤 Name: Hanif Esmail 
+📘 Course: Advanced Programming 
+🎓 Institution: Adama Science and Technology University 
 📜 License
 
 🎓 Educational use only.
