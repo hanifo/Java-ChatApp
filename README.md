@@ -58,3 +58,15 @@ Type exit to end the chat.
 📜 License
 
 🎓 Educational use only.
+
+---
+
+## Assignment Submissions
+
+### Assignment 1: Simple Chat Application
+Repository Link:  
+https://github.com/hanifo/Java-ChatApp
+
+### Assignment 2: Simple RMI Calculator
+Repository Link:  
+https://github.com/hanifo/CalculatorRMI
